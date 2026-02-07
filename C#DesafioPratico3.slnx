@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="Task.Api/Task.Api.csproj" />
+  <Project Path="Task.Application/Task.Application.csproj" />
+  <Project Path="Task.Communication/Task.Communication.csproj" />
+</Solution>
